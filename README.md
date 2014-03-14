@@ -1,1 +1,1 @@
-based on eT
+based on eTalk
