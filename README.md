@@ -1,1 +1,1 @@
-based on eTalk
+based on esoTalk
